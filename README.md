@@ -1,19 +1,14 @@
 # 💫 About Me:
-Hello! I'm a Computer Science Engineering student at Woxsen University, specializing in AI & ML. My passion lies in solving real-world problems with technology, and I love exploring new AI fields, working collaboratively, and honing my tech skills. 
+Hi! I'm a Computer Science Engineering student at Woxsen University, specializing in AI & ML, with a passion for solving real-world problems through technology. I enjoy collaborating remotely, exploring new fields in AI, and continuously improving my tech skills.
 
-Outside of coding, I’m an active member of Woxsen’s Octaves Music Club, where I channel my creativity through music. My approach to both academic and personal projects emphasizes leadership, adaptability, and effective communication. 
+When I'm not coding, you can find me playing music as an executive member of the Octaves Music Club at Woxsen. I'm also committed to leadership, adaptability, and effective communication in both academic and personal projects.
 
-Explore my repositories to find projects in data science, AI models, web development, and creative design. Currently, I'm diving into Rust, so bear with me as I refine my skills in it!
+Feel free to explore my repositories, where I work on a wide variety of projects, ranging from data science and AI models to web development and creative design.
+
+I am currently learning Rust, so please take my Rust code with a grain of salt.
 
 # 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-%230077B5.svg?style=for-the-badge&logo=webrtc&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DeathSurfing&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
