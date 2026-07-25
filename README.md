@@ -7,7 +7,7 @@ Check out my [portfolio](https://adityavikram.dev), [LinkedIn](https://www.linke
 ### Web Products
 
 - **[ESSET.AI](https://github.com/DeathSurfing/EssetAI)** — AI website builder that turns Google Maps business links into production-ready sites
-- **[69K.LOL](https://github.com/DeathSurfing/69k.lol)** — Digital product platform for game enhancements (auth, subscriptions, real-time updates)
+- **[69K.LOL](https://69k.lol)** — Digital product platform for game enhancements (auth, subscriptions, real-time updates)
 
 ### Open Source
 
