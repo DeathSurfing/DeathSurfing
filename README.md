@@ -23,4 +23,4 @@ Check out my [portfolio](https://adityavikram.dev), [LinkedIn](https://www.linke
 
 ### Infrastructure
 
-- **[Bare-Metal K3s Cluster](https://adityavikram.dev/blog/building-a-bare-metal-kubernetes-cluster-with-k3s)** — High-availability compute cluster on Raspberry Pi with K3s, MetalLB
+- **[Bare-Metal K3s Cluster](https://adityavikram.dev/blog/bare-metal-kubernetes-cluster)** — High-availability compute cluster on Raspberry Pi with K3s, MetalLB
