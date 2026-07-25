@@ -1,24 +1,26 @@
-# Aditya Vikram Mahendru
+Software Engineering Intern @ Woxsen AI Research Center. AI Engineering Intern @ Stealth Startup. Technical Secretary @ Woxsen Student Council. Runs a web dev agency.
 
-**Full Stack Developer** — I design and engineer scalable digital systems that hold up in production.
+Check out my [portfolio](https://adityavikram.dev), [LinkedIn](https://www.linkedin.com/in/aditya-vikram-mahendru/), or [GitHub](https://github.com/DeathSurfing) (you're here)
 
-## Now
+## Current Projects
 
-- **AI Engineering Intern** at a stealth startup (Apr 2026-Present) — Kubernetes infrastructure, CI/CD automation, AI workload deployment.
-- **Software Engineering Intern** at Woxsen AI Research Center (Jan-Jun 2025) — Enterprise systems for 6,000+ users. Python, Flask, Docker, PostgreSQL.
-- **Technical Secretary** at Woxsen Student Council (2025-2026) — Campus digital transformation, replacing vendor lock-in with student-built solutions.
-- Runs a **web development agency** — retainer-based projects (Next.js, Tailwind, full-stack).
+### Web Products
 
-## Tech Stack
+- **[ESSET.AI](https://github.com/DeathSurfing/EssetAI)** — AI website builder that turns Google Maps business links into production-ready sites
+- **[69K.LOL](https://github.com/DeathSurfing/69k.lol)** — Digital product platform for game enhancements (auth, subscriptions, real-time updates)
 
-**Web:** Next.js, TypeScript, Tailwind CSS, MongoDB, Redis, Convex, WorkOS
-**Infra:** Kubernetes, K3s, Docker, Proxmox, Nginx, MetalLB, GitHub Actions
-**AI/ML:** Python, LLaMA 3.1, Neural Networks, NLP, scikit-learn, Pandas
-**Systems:** Rust, C++, Polars
+### Open Source
 
-## Contact
+- **[featrs](https://github.com/DeathSurfing/featrs)** — Polars-native feature engineering library for Rust (15 stars)
+- **[autofeat](https://github.com/DeathSurfing/autofeat)** — Interactive AI-powered feature engineering CLI
+- **[CNN from Scratch](https://github.com/DeathSurfing/CNN-From-Scratch)** — Convolutional neural network built in Rust
 
-[adityavikram.dev](https://adityavikram.dev)
+### AI & ML
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathSurfing&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathSurfing&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- **[Slang Translator](https://github.com/DeathSurfing/Slang-Translator)** — AI slang translation using LLaMA 3.1
+- **[Spotify Top 100 Analysis](https://github.com/DeathSurfing/Spotify-Top-100-Analysis)** — Music hit prediction via segmentation and ML
+- **[NoteRefactor](https://github.com/DeathSurfing/NoteRefactor)** — Interactive notebook for cleaning and refactoring text data
+
+### Infrastructure
+
+- **[Bare-Metal K3s Cluster](https://adityavikram.dev/blog/building-a-bare-metal-kubernetes-cluster-with-k3s)** — High-availability compute cluster on Raspberry Pi with K3s, MetalLB
