@@ -1,22 +1,34 @@
-# 💫 About Me:
-Hi! I'm a Computer Science Engineering student at Woxsen University, specializing in AI & ML, with a passion for solving real-world problems through technology. I enjoy collaborating remotely, exploring new fields in AI, and continuously improving my tech skills.
+# Aditya Vikram Mahendru
 
-When I'm not coding, you can find me playing music as an executive member of the Octaves Music Club at Woxsen. I'm also committed to leadership, adaptability, and effective communication in both academic and personal projects.
+**Full Stack Developer** — I design and engineer scalable digital systems that hold up in production.
 
-Feel free to explore my repositories, where I work on a wide variety of projects, ranging from data science and AI models to web development and creative design.
+## Now
 
-I am currently learning Rust, so please take my Rust code with a grain of salt.
+- **AI Engineering Intern** at a stealth startup (Apr 2026-Present) — Kubernetes infrastructure, CI/CD automation, AI workload deployment.
+- **Software Engineering Intern** at Woxsen AI Research Center (Jan-Jun 2025) — Enterprise systems for 6,000+ users. Python, Flask, Docker, PostgreSQL.
+- **Technical Secretary** at Woxsen Student Council (2025-2026) — Campus digital transformation, replacing vendor lock-in with student-built solutions.
+- Runs a **web development agency** — retainer-based projects (Next.js, Tailwind, full-stack).
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+## Projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeathSurfing&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeathSurfing&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathSurfing&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- **ESSET.AI** — AI website builder from Google Maps business links. Next.js 16, React 19, TypeScript.
+- **69K.LOL** — Digital product platform (auth, subscriptions, billing). Next.js, Convex, WorkOS, Stripe.
+- **Self-Hosted K3s Cluster** — Bare-metal Kubernetes on Raspberry Pi with MetalLB, Docker.
+- **Featrs** — Feature engineering library for Rust, inspired by scikit-learn, built on Polars.
+- **CNN from Scratch** — Convolutional neural network implemented in Rust.
+- **Spotify Top 100 Analysis** — Music hit prediction via segmentation and ML (Python, Pandas).
+- **Slang Translator** — AI-powered slang translation using LLaMA 3.1.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeathSurfing&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=DeathSurfing&icon=0&color=0)](https://visitcount.itsvg.in)
+**Web:** Next.js, TypeScript, Tailwind CSS, MongoDB, Redis, Convex, WorkOS
+**Infra:** Kubernetes, K3s, Docker, Proxmox, Nginx, MetalLB, GitHub Actions
+**AI/ML:** Python, LLaMA 3.1, Neural Networks, NLP, scikit-learn, Pandas
+**Systems:** Rust, C++, Polars
+
+## Contact
+
+[adityavikram.dev](https://adityavikram.dev)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeathSurfing&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathSurfing&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
