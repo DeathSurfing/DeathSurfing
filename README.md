@@ -9,16 +9,6 @@
 - **Technical Secretary** at Woxsen Student Council (2025-2026) — Campus digital transformation, replacing vendor lock-in with student-built solutions.
 - Runs a **web development agency** — retainer-based projects (Next.js, Tailwind, full-stack).
 
-## Projects
-
-- **ESSET.AI** — AI website builder from Google Maps business links. Next.js 16, React 19, TypeScript.
-- **69K.LOL** — Digital product platform (auth, subscriptions, billing). Next.js, Convex, WorkOS, Stripe.
-- **Self-Hosted K3s Cluster** — Bare-metal Kubernetes on Raspberry Pi with MetalLB, Docker.
-- **Featrs** — Feature engineering library for Rust, inspired by scikit-learn, built on Polars.
-- **CNN from Scratch** — Convolutional neural network implemented in Rust.
-- **Spotify Top 100 Analysis** — Music hit prediction via segmentation and ML (Python, Pandas).
-- **Slang Translator** — AI-powered slang translation using LLaMA 3.1.
-
 ## Tech Stack
 
 **Web:** Next.js, TypeScript, Tailwind CSS, MongoDB, Redis, Convex, WorkOS
