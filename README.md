@@ -1,4 +1,4 @@
-Software Engineering Intern @ Woxsen AI Research Center. AI Engineering Intern @ Stealth Startup. Technical Secretary @ Woxsen Student Council. Runs a web dev agency.
+EX-Software Engineering Intern @ Woxsen AI Research Center. AI Engineering Intern @ Stealth Startup. EX-Technical Secretary @ Woxsen Student Council. Runs a web dev agency.
 
 Check out my [portfolio](https://adityavikram.dev), [LinkedIn](https://www.linkedin.com/in/aditya-vikram-mahendru/), or [GitHub](https://github.com/DeathSurfing) (you're here)
 
