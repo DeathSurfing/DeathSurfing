@@ -13,7 +13,7 @@ Check out my [portfolio](https://adityavikram.dev), [LinkedIn](https://www.linke
 
 ### Open Source
 
-- **[featrs](https://github.com/DeathSurfing/featrs)** — Polars-native feature engineering library for Rust (15 stars)
+- **[featrs](https://github.com/DeathSurfing/featrs)** — Polars-native feature engineering library for Rust
 - **[autofeat](https://github.com/DeathSurfing/autofeat)** — Interactive AI-powered feature engineering CLI
 - **[CNN from Scratch](https://github.com/DeathSurfing/CNN-From-Scratch)** — Convolutional neural network built in Rust
 
