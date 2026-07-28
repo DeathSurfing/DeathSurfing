@@ -1,4 +1,4 @@
-AI Engineering Intern @ Stealth Startup. EX-Software Engineering Intern @ Woxsen AI Research Center. EX-Technical Secretary @ Woxsen Student Council. 
+AI Engineering Intern @ Stealth Startup. EX-Software Engineering Intern @ Woxsen AI Research Center.
 
 I also Run a web dev agency.
 
